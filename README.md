@@ -1,6 +1,7 @@
 # From Redlining to Heat: Urban Environmental Inequality and Its Human Cost in U.S. Cities
+🇺🇸 [English](#English) | 🇰🇷 [한국어](#한국어)
 
-## [English]
+## English
 ## HOLC Redlining → Vegetation Deficit → Urban Heat → Health and Livelihood Vulnerability
 A spatial causal analysis examining how HOLC redlining classifications have driven regional vegetation disparities over approximately 100 years, and how the resulting surface temperature inequalities further impact health and livelihood vulnerability. The analysis covers 108 U.S. cities and 13,518 census tracts.
 
@@ -41,7 +42,7 @@ Long-term policy effects must be considered, as current interventions may compou
 Primary: Team lead, Primary code author {preprocessing → regression → ML → mediation(Causal, Sobel test, Bootstrap CI)}
 Supporting: EDA, PCA, regional inflection point derivation
 
-## [Korean]
+## 한국어
 ## Holc Redlining → 식생 지수 → 지표면 온도 → 보건 및 생활 취약성
 HOLC 레드라이닝 등급으로 인한 약 100년간의 지역별 식생 편차를 매개로 야기된 지표면 온도 불평등과 이를 매개로 다시한번 보건 및 생활 취약성이 받는 영향을 분석한 공간 인과 분석 연구입니다. 미국 108개도시, 13518개의 센서스 트랙을 대상으로 분석하였습니다.
 
