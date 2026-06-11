@@ -3,7 +3,7 @@
 
 ## English
 ## HOLC Redlining → Vegetation Deficit → Urban Heat → Health and Livelihood Vulnerability
-A spatial causal analysis examining how HOLC redlining classifications have driven regional vegetation disparities over approximately 100 years, and how the resulting surface temperature inequalities further impact health and livelihood vulnerability. The analysis covers 108 U.S. cities and 13,518 census tracts.
+A spatial causal analysis examining how 1930s HOLC redlining classifications have driven regional vegetation disparities over approximately 100 years, and how the resulting surface temperature inequalities further impact health and livelihood vulnerability. The analysis covers 108 U.S. cities and 13,518 census tracts.
 
 ## Study Overview — Serial Mediation Model
 HOLC Rating → NDVI Variation (M1) → LST Variation (M2) → Health & Livelihood Outcomes
@@ -44,7 +44,7 @@ Python: pandas, numpy, scipy, statsmodels, scikit-learn, xgboost, lightgbm, matp
 
 ## 한국어
 ## HHOLC Redlining → 식생 지수 → 지표면 온도 → 보건 및 생활 취약성
-HOLC 레드라이닝 등급으로 인한 약 100년간의 지역별 식생 편차를 매개로 야기된 지표면 온도 불평등과 이를 매개로 다시한번 보건 및 생활 취약성이 받는 영향을 분석한 공간 인과 분석 연구입니다. 미국 108개도시, 13518개의 센서스 트랙을 대상으로 분석하였습니다.
+1930년대의 차별적 주거 정책(HOLC 레드라이닝 등급)이 지난 100년간 어떻게 지역별 식생 편차를 야기했는지, 그리고 이로 인한 지표면 온도 불평등이 현대 미국의 보건 및 생활 취약성에 미치는 영향을 확인한 공간 인과 분석 프로젝트입니다. 미국 108개도시, 13518개의 센서스 트랙을 대상으로 분석하였습니다.
 
 ## 연구 개요 - 직렬 매개 모형 (serial mediation)
 HOLC 등급 → NDVI 편차 (M1) → LST 편차 (M2) → 건강 및 생활 결과
