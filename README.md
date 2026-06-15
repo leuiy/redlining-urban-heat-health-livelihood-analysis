@@ -1,7 +1,9 @@
 # From Redlining to Heat: Urban Environmental Inequality and Its Human Cost in U.S. Cities
 🇺🇸 [English](#English) | 🇰🇷 [한국어](#한국어)
 ---
-[holc-heat.html](./holc-heat.html) · [holc-health_life.html](./health%26livelihood.html)
+## Live Reports / 분석 결과
+- [holc-heat.html](./holc-heat.html) 
+- [holc-health_life.html](./health%26livelihood.html)
 ---
 ## English
 ## HOLC Redlining → Vegetation Deficit → Urban Heat → Health and Livelihood Vulnerability
@@ -43,6 +45,8 @@ Python: pandas, numpy, scipy, statsmodels, scikit-learn, xgboost, lightgbm, matp
 ## My Contributions (4-member team)
 - Primary: Team lead, Primary code author {preprocessing → regression → ML → mediation(Causal, Sobel test, Bootstrap CI)}
 - Supporting: EDA, PCA, regional inflection point derivation
+
+---
 
 ## 한국어
 ## HOLC Redlining → 식생 지수 → 지표면 온도 → 보건 및 생활 취약성
