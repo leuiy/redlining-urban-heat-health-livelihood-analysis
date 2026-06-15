@@ -2,9 +2,11 @@
 🇺🇸 [English](#English) | 🇰🇷 [한국어](#한국어)
 
 ---
+
 ## Live Reports / 분석 결과
-- [holc-heat.html](./holc-heat.html) 
-- [holc-health_life.html](./health%26livelihood.html)
+- [holc-heat](https://nbviewer.org/github/leuiy/redlining-urban-heat-health-livelihood-analysis/blob/main/holc-heat.ipynb)
+- [health&livelihood](https://nbviewer.org/github/leuiy/redlining-urban-heat-health-livelihood-analysis/blob/main/health%26livelihood.ipynb)
+
 ---
 
 ## English
